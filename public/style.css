@@ -1,0 +1,31 @@
+body {
+  background-color: #F0F0F0;
+  display: block;
+  text-align: center;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+h1, h2 {
+  margin: 1em;
+  font-weight: bold;
+}
+
+h1 {
+  font-size: 200%;
+}
+
+h2 {
+  font-size: 135%;
+}
+
+p {
+  margin: 0.5em;
+}
+
+em {
+  font-style: italic;
+}
+
+input[type='text'] {
+  width: 20px;
+}
